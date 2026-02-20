@@ -29,7 +29,7 @@ Test the API instantly on our Developer Portal:
 
 ---
 
-## 🛠 Integration Guide
+## 🛠 Integration Guide --
 
 ### Base URL
 `https://veriflow-api.vercel.app/v1`
