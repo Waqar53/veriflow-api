@@ -15,7 +15,7 @@ Building a B2B product? You need to verify your customers (KYB).
 *   Enterprise solutions cost **$20k+/year** and take weeks to integrate.
 
 **Solution:**
-**Veriflow.** One API Key. Global Coverage.
+**Veriflow.** One API Key. Global Coverage and much more
 We standardize global business data into a single, beautiful JSON format.
 *   ✅ **Instant Verification:** Check company status, directors, and address in <200ms.
 *   ✅ **Global Reach:** UK, US, EU, and more out of the box.
